@@ -35,7 +35,7 @@
 4. Using no array syntax, write a C function that takes only a char * as a parameter and removes, in place, all the letter 'A's (UPPER and lower case) from the original string.
     * Try to do it without using any additional arrays.
 
-5. What, if anything, will be output when you execute following c code and why? If the there is an error of any kind, explain the error.
+5. What, if anything, will be output when you execute each of following c code snippets and why? If the there is an error of any kind, explain the error.
 
 ```c
     #include<stdio.h>
