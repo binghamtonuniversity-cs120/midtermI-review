@@ -24,7 +24,7 @@
 ```
 
 2. What are the definitions of the “Boolean'' values true and false in C?
-3. (tricky question) What would this code print?
+3. What would this code print?
 ```c
     int i;
     for(i = 0; i < 3; i++)
